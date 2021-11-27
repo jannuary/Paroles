@@ -1,0 +1,4 @@
+data/io.github.jannuary.Paroles.desktop.in
+data/io.github.jannuary.Paroles.appdata.xml.in
+data/io.github.jannuary.Paroles.gschema.xml
+src/window.ui

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="paroles">
+	<schema id="io.github.jannuary.Paroles" path="/io/github/jannuary/Paroles/">
+	</schema>
+</schemalist>

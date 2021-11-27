@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=paroles
+Exec=paroles
+Icon=io.github.jannuary.Paroles
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

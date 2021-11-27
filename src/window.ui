@@ -1,0 +1,26 @@
+using Gtk 4.0;
+using Adw 1;
+
+template ParolesWindow : Adw.ApplicationWindow {
+	default-width: 500;
+	default-height: 500;
+	Gtk.Box {
+		orientation: vertical;
+
+		Adw.HeaderBar window_header {
+			title-widget: window_title;
+		}
+
+		Adw.StatusPage {
+			title: "Work in progress";
+			description: "Nothing to see here";
+			icon-name: "action-unavailable-symbolic";
+			vexpand: true;
+		}
+	}
+}
+
+Adw.WindowTitle window_title {
+	title: "Placeholder";
+	subtitle: "Tanaka-san";
+}
